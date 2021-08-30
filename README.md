@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @LeoDiKadyrov
 - 👀 I’m interested in Frontend developing
 - 🌱 I’m currently learning Vue/Vuex, React/Redux
 
