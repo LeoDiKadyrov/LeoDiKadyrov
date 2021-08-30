@@ -1,7 +1,17 @@
 - 👋 Hi, I’m @LeoDiKadyrov
 - 👀 I’m interested in Frontend developing
 - 🌱 I’m currently learning Vue/Vuex, React/Redux
-- 📫 How to reach me gmail - din02winchester25@gmail.com
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/autocode.svg?sanitize=true"> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leodikadyrov&show_icons=true&locale=en&layout=compact" alt="leodi" /></p>
+
+## My contacts 
+
+Email: <din02winchester25@gmail.com>
+
+Telegram: [@puchar](https://t.me/puchar)
 
 <!---
 LeoDiKadyrov/LeoDiKadyrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
