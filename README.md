@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/LeoDiKadyrov/LeoDiKadyrov/blob/main/header.png)](https://github.com/LeoDiKadyrov)
+[![MasterHead](https://github.com/LeoDiKadyrov/LeoDiKadyrov/blob/main/banner.png)](https://github.com/LeoDiKadyrov)
 
 - 👀 I’m interested in Frontend developing
 - 🌱 I’m currently learning Vue/Vuex, React/Redux
