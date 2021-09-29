@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/LeoDiKadyrov/LeoDiKadyrov/blob/main/banner.png)](https://github.com/LeoDiKadyrov)
 
 - 👀 I’m interested in Frontend developing
-- 🌱 I’m currently learning Jnockout js and TypeScript
+- 🌱 I’m currently learning Knockout js and TypeScript
 - 📝 I'm currently working on [Pixlpark Editor](https://demo.pixlpark.ru/printing/softcover-photobooks/15x20-soft/editor?q=1&p=12&ws=d751713988987e9331980363e24189ce)
 
 <h3 align="left">Languages and Tools:</h3>
