@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/LeoDiKadyrov/LeoDiKadyrov/blob/main/banner.png)](https://github.com/LeoDiKadyrov)
 
 - 👀 I’m interested in Frontend developing
-- 🌱 I’m currently reading [Stolyarov's books](http://stolyarov.info/books/programming_intro)
+- 🌱 I’m currently reading [Solidity](https://docs.soliditylang.org/en/v0.8.12/)
 - 📝 I was working on [Pixlpark Editor](https://demo.pixlpark.ru/printing/softcover-photobooks/15x20-soft/editor?q=1&p=12&ws=d751713988987e9331980363e24189ce)
 
 <h3 align="left">Languages and Tools:</h3>
