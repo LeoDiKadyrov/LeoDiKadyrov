@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/LeoDiKadyrov/LeoDiKadyrov/blob/main/banner.png)](https://github.com/LeoDiKadyrov)
+[![MasterHead](https://github.com/LeoDiKadyrov/LeoDiKadyrov/blob/main/1.webp)](https://github.com/LeoDiKadyrov)
 
 - 👀 I’m interested in Golang
 - 🌱 I’m currently fucked up regarding coding
